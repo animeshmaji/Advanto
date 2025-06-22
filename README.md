@@ -23,15 +23,15 @@ Real-world web design project
 
 Boost your frontend development skills
 
-Website Preview: https://webdesignmastery.github.io/Advanto_30-03-25/
+Website Preview: https://animeshmaji.github.io/Advanto/
 
 Website Source Code: https://github.com/animeshmaji/Advanto
 
 🔔 Don't forget to like, comment, and subscribe for more amazing web development tutorials!
 
 📢 Follow us for updates:
-YouTube: https://www.youtube.com/channel/UCM2fAU1oR3k4VCEMAkq4fcA?sub_confirmation=1
-Instagram: https://bit.ly/igwdm23
+
+Social Media Profiles: https://bit.ly/m/AnimeshMaji
 
 ![99-1](https://github.com/user-attachments/assets/3c1a24e3-582f-4872-99c7-e5e45108d390)
 
